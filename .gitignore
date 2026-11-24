@@ -1,0 +1,10 @@
+# dependencies
+JUCE/
+
+# build output
+build/
+
+# OS / editor noise
+.DS_Store
+*.xcuserdata
+*.log
